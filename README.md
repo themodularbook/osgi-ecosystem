@@ -1,4 +1,4 @@
 osgi-ecosystem
 ==============
 
-Read the wiki [https://github.com/themodularbook/osgi-ecosystem/wiki](here).
+Read the wiki [here](https://github.com/themodularbook/osgi-ecosystem/wiki).
